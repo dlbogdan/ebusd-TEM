@@ -37,7 +37,7 @@ r3,,confort_function,,,,,900040,ign,s,IGN:8,,,,,s,UCH,0=Deactivated;1=Scheduled;
 
 *r,boiler-setup-heating,,,,15,0621,09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #r1,,post_heating_circulation,,,,,800040,ign,s,IGN:8,,,,post heating circulation,s,SIN,1,min,,ign,s,IGN:*,,,
-#r1,,pomp_mode,,,,,920040,ign,s,IGN:8,,,,Pomp mode,s,UCH,0=Low speed;1=High speed;2=Modulate,,MODE,ign,s,IGN:*,,,
+#r1,,pump_mode,,,,,920040,ign,s,IGN:8,,,,Pomp mode,s,UCH,0=Low speed;1=High speed;2=Modulate,,MODE,ign,s,IGN:*,,,
 #r1,,deltaT_module,,,,,930040,ign,s,IGN:8,,,,Delta T module,s,SIN,1,°C,Temperatur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #r1,,anticyclage,,,,,970040,ign,s,IGN:8,,,,Anticyclage,s,SIN,1,min,,ign,s,IGN:*,,,
 #r1,,auto_basic_period,,,,,a10040,ign,s,IGN:8,,,,Auto basic period,s,SIN,1,min,,ign,s,IGN:*,,,
